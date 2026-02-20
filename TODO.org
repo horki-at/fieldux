@@ -1,0 +1,3 @@
+* Questions
+** TODO Why is i686-elf the architecture of choice?
+
