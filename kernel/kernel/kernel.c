@@ -5,5 +5,9 @@
 void kernel_main(void)
 {
 	terminal_initialize();
-	printf("Hello, kernel World!\n");
+  terminal_putchar('h');
+  terminal_putchar('e');
+  terminal_putchar('l');
+  terminal_putchar('l');
+  terminal_putchar('o');
 }

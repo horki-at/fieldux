@@ -6,4 +6,4 @@ shamefully copied from the meaty example of osdev.
 
 * References
 
-- [[eww:wiki.osdev.org][osdev]]
+- wiki.osdev.org
