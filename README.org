@@ -1,9 +1,0 @@
-* Description
-
-This is my attempt of creating an operating system. Since this is my first time,
-I followed a lot of tutorials from osdev. In fact, the initial build system was
-shamefully copied from the meaty example of osdev.
-
-* References
-
-- wiki.osdev.org
